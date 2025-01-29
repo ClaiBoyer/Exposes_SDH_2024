@@ -30,7 +30,7 @@ Autrement dit, le catalogue ne doit plus se concevoir comme le reflet de la coll
 > « - Pour ma thèse en histoire, j’ai besoin de la liste complète des éditions de Voltaire au XVIIIe siècle.  
     - _Il vous suffit de chercher la fiche Voltaire issue du fichier national des entités._ »  
   « - J’aimerais connaître les principaux auteurs ayant travaillé sur la chimie moléculaire.  
-    - _Une recherche par sujet me permettra de vous dire quels sont les auteurs les plus souvent associés à ce sujet._ »
+    - _Une recherche par sujet me permettra de vous dire quels sont les auteurs les plus souvent associés à ce sujet._ »  
   « - Pour mon exposé sur Darwin, commençons par une recherche Google…  
     - _Tiens, il y a des documents sur le sujet à la bibliothèque. C’est donc à cela qu’elle sert ?_ »  
   « - Ce livre a l’air intéressant, qu’en pense Google ?   
